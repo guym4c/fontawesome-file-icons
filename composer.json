@@ -1,0 +1,24 @@
+{
+    "name": "guym4c/fontawesome-file-icons",
+    "description": "Get FontAwesome Free file icons by file extension",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/guym4c/fontawesome-file-icons",
+    "keywords": ["fontawesome", "file", "icons"],
+    "authors": [
+        {
+            "name": "Guy Mac",
+            "email": "hello@guymac.eu",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Guym4c\\FontAwesomeFileIcons\\": "src/"
+        }
+    },
+    "require": {
+        "voku/portable-utf8": "^5.4"
+    }
+}
