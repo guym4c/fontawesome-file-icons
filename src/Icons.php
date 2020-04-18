@@ -7,13 +7,13 @@ class Icons {
     public const word = 'fa-file-word';
     public const video = 'fa-file-video';
     public const powerpoint = 'fa-file-powerpoint';
-    public const pdf = 'file-pdf';
-    public const image = 'file-image';
-    public const excel = 'file-excel';
-    public const code = 'file-code';
-    public const audio = 'file-audio';
-    public const archive = 'file-archive';
-    public const csv = 'file-csv';
-    public const text = 'file-alt';
-    public const default = 'file';
+    public const pdf = 'fa-file-pdf';
+    public const image = 'fa-file-image';
+    public const excel = 'fa-file-excel';
+    public const code = 'fa-file-code';
+    public const audio = 'fa-file-audio';
+    public const archive = 'fa-file-archive';
+    public const csv = 'fa-file-csv';
+    public const text = 'fa-file-alt';
+    public const default = 'fa-file';
 }
